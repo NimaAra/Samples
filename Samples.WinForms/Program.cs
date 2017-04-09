@@ -7,7 +7,7 @@
     internal class Program
     {
         [STAThread]
-        static void Main()
+        private static void Main()
         {
             Application.EnableVisualStyles();
             using (var form = new Form())
