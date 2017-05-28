@@ -1,4 +1,5 @@
-namespace Samples.WinForms {
+namespace Samples.WinForms
+{
     using System;
     using System.Collections.Generic;
     using System.Linq;

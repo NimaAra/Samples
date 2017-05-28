@@ -1,4 +1,5 @@
-﻿namespace Samples.WinForms {
+﻿namespace Samples.WinForms
+{
     using System.ComponentModel;
     using System.Runtime.CompilerServices;
 
